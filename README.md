@@ -1,3 +1,7 @@
+# This is the Delpoyed URL
+
+**URL**: https://sample-ai-video-editor-frontend.vercel.app/
+
 # Video editor with React
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
